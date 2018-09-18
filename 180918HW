@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Ex180918</title>
+    <!--<link rel="stylesheet" href="CSS.css">-->
+</head>
+<style>
+    center{
+        font-size: 16px;
+        color: #ffb2a4;
+        text-shadow: 5px 4px 4px #1410ff;
+        text-align: center;
+    }
+    button{
+        color: #3234fa;
+        font-size: 40px;
+        border: 5px #ffb2a4;
+        border-radius: 8px;
+        padding: 8px 5px 8px 5px;
+    }
+    p{
+        color: #dfff60;
+        font-size: 30px;
+        text-align: center;
+        background-color: #84091c;
+        text-shadow: 5px 5px 5px #29c29e;
+    }
+</style>
+<body style="background-image:url('https://ct.yimg.com/xd/api/res/1.2/hEdh5ipE9whQxRmuZSe7JA--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD02MDA7cT04NTtyb3RhdGU9YXV0bzt3PTYwMDtwPW9wZW5jdg--/https://s.yimg.com/ob/image/1b45b0a8-2446-4394-b9a3-e09e9f19cd0c.jpg');"></body>
+<p>106021050 資工2B 郭奕辳</p>
+<center>一飛衝天</center>
+<center>一字千金</center>
+<center>草木皆兵</center>
+<center>虎頭蛇尾</center>
+<center>量力而為</center>
+<table width= "1500" align="center" border="0">
+    <td align="center" bgcolor="green">
+        <button><a href="http://210.70.80.21/~s106021050/index.html">首頁</a></button>
+    </td>
+    <td align="center" bgcolor="red">
+        <button><a href="https://www.youtube.com/?gl=TW">YOUTUBE</a></button>
+    </td>
+    <td align="center" bgcolor="fuchsia">
+        <button><a href="http://120.108.101.82/sel2/" target="_blank">選課</a></button>
+    </td>
+    <td align="center" bgcolor="#adff2f">
+        <button><a href="https://imgur.com/a/d9gLuuF" target="_blank">課表</a></button>
+    </td>
+</table>
+<body>
+
+</body>
+</body>
+</html>
